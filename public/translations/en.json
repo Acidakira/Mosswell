@@ -1,108 +1,98 @@
 {
   "general": {
-    "name": "Name Surname",
-    "headline": "Short headline about yourself",
+    "name": "Apple Mosswell",
+    "headline": "Operations & Systems Specialist",
     "about": [
-      "Hey there! 👋",
-      "This should be a first short paragraph about yourself. Tell us something about yourself, your education or your career.",
-      "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
+      "Ah, there you are.",
+      "I build the digital backbone that keeps operations clean, fast, and organized. Instead of chasing quick fixes, I dig into the backend logic, clean up messy databases, and turn chaotic workflows into automated systems that actually work.",
+      "When I'm not untangling database architecture, I’m usually teaching myself coding, building personal projects, or testing new Android roots. I love the backend of systems and owning all aspects of what technology can do for us."
     ],
     "socials": {
-      "email": "example@mail.com",
-      "linkedin": "https://www.linkedin.com/",
-      "github": "https://github.com/"
+      "email": "Apple.Mosswell@mail.com",
+      "linkedin": "https://www.linkedin.com/A-Mosswell",
+      "github": "https://github.com/Acidakira"
     }
   },
   "experiences": [
     {
-      "title": "Position Title",
-      "company": "Company Name",
+      "title": "Operations & Systems Specialist",
+      "company": "Quality Solutions Nationwide",
       "href": "",
-      "startDate": "10/2023",
-      "endDate": "CURRENT",
-      "description": "This is a short description of your role.",
+      "startDate": "12.2020",
+      "endDate": "5.2025",
+      "description": "I managed the backend infrastructure for 35+ national location rollouts annually while auditing internal workflows to eliminate operational bottlenecks. By rebuilding company SOPs from scratch and transforming an unorganized Salesforce instance with automated tracking and auto-calculation logic, I consolidated fractured communication channels and modernized hundreds of legacy accounts. As the internal technical point person, I owned system permissions, managed end-to-end employee onboarding, and served as the primary troubleshooter for cross-functional roadblocks to keep the daily operation running smoothly.",
       "logo": "/logos/vercel-white.png",
-      "skills": ["Skill 1", "Skill 2", "Skill 3"]
+      "skills": ["Salesforce", "Automation", "Workflows", "Syntax"]
     },
     {
-      "title": "Position Title",
-      "company": "Company Name",
+      "title": "Operations Lead",
+      "company": "Amuse Delivery",
       "href": "",
-      "startDate": "01/2023",
-      "endDate": "09/2023",
-      "description": "This is a short description of your role.",
+      "startDate": "01/2024",
+      "endDate": "12/2024",
+      "description": "I managed nightly dispatch logistics for a 15-driver fleet, ensuring full compliance with strict state-mandated delivery regulations. Alongside routing operations, I reconciled daily cash logs and resolved high-volume customer and field service escalations under tight operational windows.",
       "logo": "/logos/vercel-white.png",
-      "skills": ["Skill 1", "Skill 2"]
+      "skills": ["Compliance", "Dispatch", "Auditing", "CS"]
     },
     {
-      "title": "Position Title",
-      "company": "Company Name",
+      "title": "Unit Lead & Caregiver",
+      "company": "Revere Court",
       "href": "",
       "startDate": "01/2022",
       "endDate": "12/2022",
-      "description": "This is a short description of your role.",
+      "description": "I directed specialized memory and Alzheimer's care for a 28-resident unit, earning a promotion to Unit Lead within weeks of hiring. Alongside managing daily resident health and safety metrics, I built and led training programs for incoming care staff to ensure compliance and high-quality care standards across the unit.",
       "logo": "/logos/vercel-white.png",
-      "skills": ["Skill 1"]
+      "skills": ["Healthcare", "Leadership"]
     },
-    {
-      "title": "Position Title",
-      "company": "Company Name",
-      "href": "",
-      "startDate": "01/2021",
-      "endDate": "12/2021",
-      "description": "This is a short description of your role.",
-      "logo": "/logos/vercel-white.png",
-      "skills": ["Skill 1", "Skill 2", "Skill 3"]
-    }
   ],
   "education": [
     {
-      "subject": "University Subject",
-      "degree": "Master of Science",
-      "university": "University Name",
-      "href": "",
-      "startDate": "2022",
+      "subject": "Salesforce Administration Cert",
+      "degree": "Continuous Learning",
+      "university": "Salesforce Trailhead",
+      "href": "https://www.salesforce.com/trailblazer/mosswell",
+      "startDate": "2025",
       "endDate": "NOW",
-      "description": "Short description of your degree."
+      "description": "Expanding advanced technical capabilities, database hygiene, and automated workflow architecture through self-directed platform training."
     },
     {
-      "subject": "University Subject",
-      "degree": "Bachelor of Science",
-      "university": "University Name",
-      "href": "",
-      "startDate": "2017",
-      "endDate": "2020",
-      "description": "Short description of your degree."
+      "subject": "Systems Security",
+      "degree": "Security+ Certification Study",
+      "university": "CompTIA",
+      "href": "https://www.comptia.org/en/certifications/security/",
+      "startDate": "2026",
+      "endDate": "NOW",
+      "description": "Studying core security principles, risk management, and threat mitigation to deepen backend systems infrastructure security knowledge."
+    },
+       {
+      "subject": "Process Optimization",
+      "degree": "Green Belt Certification Study",
+      "university": "Lean Six Sigma",
+      "href": "https://www.sixsigmaonline.org/six-sigma-certification/?utm_medium=cpc&utm_source=google&utm_term=six%20sigma%20program&utm_campaign=SSO+%7C+General&hsa_acc=8133647944&hsa_cam=18507364546&hsa_grp=146256603356&hsa_ad=648733157497&hsa_src=g&hsa_tgt=kwd-184439560&hsa_kw=six%20sigma%20program&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=18507364546&gbraid=0AAAAAoc8zl2r6o8xHKi6n5LbhdcrH6K0e&gclid=CjwKCAjw8arQBhB9EiwAfIKdQtgNeQKSU9j-zUn_zDTGjLVaXTPNU5kaY78TaHH0Aok5vWOV8jzezBoC75QQAvD_BwE",
+      "startDate": "2026",
+      "endDate": "NOW",
+      "description": "Mastering the formal corporate frameworks and methodology for process optimization and efficiency standards that I already practice and apply in live operations."
     }
   ],
   "volunteering": [
     {
-      "position": "Position Name",
-      "event": "Event Name",
-      "organisation": "Organisation Name",
-      "href": "",
-      "startDate": "2022",
-      "endDate": "NOW",
-      "description": "Short description of your role at the event."
+      "position": "Program Assistant",
+      "event": "Therapy Programs",
+      "organisation": "Project R.I.D.E.",
+      "href": "https://projectride.org/",
+      "startDate": "2016",
+      "endDate": "2020",
+      "description": "Supported therapeutic horseback riding programs by coordinating weekly session logistics and assisting individuals with special needs to ensure a safe, structured environment."
     },
     {
-      "position": "Position Name",
-      "event": "Event Name",
-      "organisation": "Organisation Name",
+      "position": "Volunteer",
+      "event": "Homeless Outreach",
+      "organisation": "Let Hope Arise",
       "href": "",
-      "startDate": "2022",
-      "endDate": "NOW",
-      "description": "Short description of your role at the event."
+      "startDate": "2018",
+      "endDate": "2020",
+      "description": "Conducted direct street outreach in remote camp areas to provide food, toiletries, basic medical aid, clothing, and critical community resources to unhoused individuals."
     },
-    {
-      "position": "Position Name",
-      "event": "Event Name",
-      "organisation": "Organisation Name",
-      "href": "",
-      "startDate": "2022",
-      "endDate": "NOW",
-      "description": "Short description of your role at the event."
-    }
   ],
   "projects": [
     {
