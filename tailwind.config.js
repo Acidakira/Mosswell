@@ -15,22 +15,22 @@ module.exports = {
       */ 
      /* :: Color Palette: Purple and Dark Blue */
    'primary' : {
-      100 : '#191F0F' ,
-      200 : '#606142' ,
-      300 : '#75884b' ,
-      400 : '#887952' ,
-      500 : '#9f926d' ,
-      600 : '#bfb79e' 
+      100 : '#887952' , // Taupe Brown ("Midnight" script text) for buttons/cta
+      200 : '#606142' , 
+      300 : '#75884b' , // Dusty Forest Green for your name/highlights
+      400 : '#887952' , 
+      500 : '#9f926d' , 
+      600 : '#bfb79e'  
     } ,
     'surface' : {
-      100 : '#fdfbf7' ,
-      200 : '#f4f0e6' ,
-      300 : '#e9e3d3' ,
-      400 : '#ded5bf' ,
-      500 : '#bfb79e' ,
-      600 : '#9f926d' 
+      100 : '#fdfbf7' , // Soft ivory bone background
+      200 : '#f4f0e6' , 
+      300 : '#e9e3d3' , 
+      400 : '#ded5bf' , 
+      500 : '#bfb79e' , 
+      600 : '#9f926d'  
     } ,
-    'on-background' : '#191F0F' ,
+    'on-background' : '#141a10' , // Ultra-dark green (almost black text/borders)
       /* */
       /* :: Color Palette: Yellow and Dark Grey
       'primary': {
