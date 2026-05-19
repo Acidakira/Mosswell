@@ -14,7 +14,7 @@ module.exports = {
       *   If you want to create your own color palette, go to https://colorffy.com/dark-theme-generator and create your own color palette.
       */ 
      /* :: Color Palette: Purple and Dark Blue */
-  'primary' : {
+'primary' : {
         100 : '#859368' , // Active menu underlines, "Get in Touch" button background, hover states
         200 : '#5A5E45' , // Secondary accent lines, border focus states
         300 : '#4F5C3E' , // Main branding highlight, active page names, primary text accents
@@ -25,7 +25,7 @@ module.exports = {
       
       'surface' : {
         100 : '#F1EDDD' , // Main site background
-        200 : '#d4ceb6' , // Cards, containers, project grid panels
+        200 : '#D4CFB8' , // Cards, containers, project grid panels (Shade darker for transparency effect)
         300 : '#e9e3d3' , // Component borders, structural divider lines
         400 : '#968E73' , // Secondary outlines, disabled states
         500 : '#bfb79e' , // Subtitle descriptions, metadata labels
