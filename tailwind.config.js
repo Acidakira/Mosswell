@@ -14,23 +14,25 @@ module.exports = {
       *   If you want to create your own color palette, go to https://colorffy.com/dark-theme-generator and create your own color palette.
       */ 
      /* :: Color Palette: Purple and Dark Blue */
-   'primary' : {
-      100 : '#887952' , // Taupe Brown ("Midnight" script text) for buttons/cta
-      200 : '#606142' , 
-      300 : '#75884b' , // Dusty Forest Green for your name/highlights
-      400 : '#887952' , 
-      500 : '#9f926d' , 
-      600 : '#bfb79e'  
-    } ,
-    'surface' : {
-      100 : '#fdfbf7' , // Soft ivory bone background
-      200 : '#f4f0e6' , 
-      300 : '#e9e3d3' , 
-      400 : '#ded5bf' , 
-      500 : '#bfb79e' , 
-      600 : '#9f926d'  
-    } ,
-    'on-background' : '#141a10' , // Ultra-dark green (almost black text/borders)
+  'primary' : {
+        100 : '#22301A' , // Active menu underlines, "Get in Touch" button background, hover states
+        200 : '#5A5E45' , // Secondary accent lines, border focus states
+        300 : '#4F5C3E' , // Main branding highlight, active page names, primary text accents
+        400 : '#968E73' , // Mid-tone fallback for interactive states
+        500 : '#5A5E45' , // Secondary buttons, auxiliary interactive links
+        600 : '#22301A'   // High-contrast variant for dark toggles/borders
+      } , 
+      
+      'surface' : {
+        100 : '#F1EDDD' , // Main site background
+        200 : '#968E73' , // Cards, containers, project grid panels
+        300 : '#e9e3d3' , // Component borders, structural divider lines
+        400 : '#968E73' , // Secondary outlines, disabled states
+        500 : '#bfb79e' , // Subtitle descriptions, metadata labels
+        600 : '#9f926d'   // Timeline dates and sidebar years (e.g., "2025 - NOW")
+      } , 
+      
+      'on-background' : '#2c3625' , // Main readable body text, primary headers, active global text
       /* */
       /* :: Color Palette: Yellow and Dark Grey
       'primary': {
