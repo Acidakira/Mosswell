@@ -15,7 +15,7 @@ module.exports = {
       */ 
      /* :: Color Palette: Purple and Dark Blue */
   'primary' : {
-        100 : '#22301A' , // Active menu underlines, "Get in Touch" button background, hover states
+        100 : '#859368' , // Active menu underlines, "Get in Touch" button background, hover states
         200 : '#5A5E45' , // Secondary accent lines, border focus states
         300 : '#4F5C3E' , // Main branding highlight, active page names, primary text accents
         400 : '#968E73' , // Mid-tone fallback for interactive states
@@ -25,7 +25,7 @@ module.exports = {
       
       'surface' : {
         100 : '#F1EDDD' , // Main site background
-        200 : '#968E73' , // Cards, containers, project grid panels
+        200 : '#d4ceb6' , // Cards, containers, project grid panels
         300 : '#e9e3d3' , // Component borders, structural divider lines
         400 : '#968E73' , // Secondary outlines, disabled states
         500 : '#bfb79e' , // Subtitle descriptions, metadata labels
