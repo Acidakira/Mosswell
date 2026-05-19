@@ -43,7 +43,7 @@
       "description": "I directed specialized memory and Alzheimer's care for a 28-resident unit, earning a promotion to Unit Lead within weeks of hiring. Alongside managing daily resident health and safety metrics, I built and led training programs for incoming care staff to ensure compliance and high-quality care standards across the unit.",
       "logo": "/logos/vercel-white.png",
       "skills": ["Healthcare", "Leadership"]
-    },
+    }
   ],
   "education": [
     {
@@ -64,7 +64,7 @@
       "endDate": "NOW",
       "description": "Studying core security principles, risk management, and threat mitigation to deepen backend systems infrastructure security knowledge."
     },
-       {
+    {
       "subject": "Process Optimization",
       "degree": "Green Belt Certification Study",
       "university": "Lean Six Sigma",
