@@ -18,21 +18,21 @@ module.exports = {
         100 : '#859368' , // Active menu underlines, "Get in Touch" button background, hover states
         200 : '#5A5E45' , // Secondary accent lines, border focus states
         300 : '#4F5C3E' , // Main branding highlight, active page names, primary text accents
-        400 : '#968E73' , // Mid-tone fallback for interactive states
-        500 : '#5A5E45' , // Secondary buttons, auxiliary interactive links
-        600 : '#22301A'   // High-contrast variant for dark toggles/borders
+        400 : '#4F5C3E' , // Mid-tone interactive states (Shifted to deep forest green)
+        500 : '#3A442E' , // Secondary buttons, auxiliary interactive links (Dark forest green)
+        600 : '#22301A'   // High-contrast variant for dark toggles/borders (Deepest hunter green)
       } , 
       
       'surface' : {
         100 : '#F1EDDD' , // Main site background
         200 : '#D4CFB8' , // Cards, containers, project grid panels (Shade darker for transparency effect)
-        300 : '#e9e3d3' , // Component borders, structural divider lines
-        400 : '#968E73' , // Secondary outlines, disabled states
-        500 : '#bfb79e' , // Subtitle descriptions, metadata labels
-        600 : '#9f926d'   // Timeline dates and sidebar years (e.g., "2025 - NOW")
+        300 : '#A3AC96' , // Component borders, structural divider lines (Muted sage green)
+        400 : '#5A5E45' , // Secondary outlines, disabled states (Olive tint)
+        500 : '#5A5E45' , // Subtitle descriptions, metadata labels (Muted olive green)
+        600 : '#4F5C3E'   // Timeline dates and sidebar years (Solid forest green)
       } , 
       
-      'on-background' : '#2c3625' , // Main readable body text, primary headers, active global text
+      'on-background' : '#1B2416' , // Main readable body text, primary headers, active global text (Deep black-green)
       /* */
       /* :: Color Palette: Yellow and Dark Grey
       'primary': {
