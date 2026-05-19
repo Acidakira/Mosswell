@@ -14,23 +14,23 @@ module.exports = {
       *   If you want to create your own color palette, go to https://colorffy.com/dark-theme-generator and create your own color palette.
       */ 
      /* :: Color Palette: Purple and Dark Blue */
-      'primary': {
-        100: '#194bff',
-        200: '#525dff',
-        300: '#7170ff',
-        400: '#8b83ff',
-        500: '#a197ff',
-        600: '#b6abff'
-      },
-      'surface': {
-        100: '#07022e',
-        200: '#1f1e42',
-        300: '#393658',
-        400: '#524f6e',
-        500: '#6d6a84',
-        600: '#89869c'
-      },
-      'on-background': '#ffffff',
+   'primary' : {
+      100 : '#191F0F' ,
+      200 : '#606142' ,
+      300 : '#75884b' ,
+      400 : '#887952' ,
+      500 : '#9f926d' ,
+      600 : '#bfb79e' 
+    } ,
+    'surface' : {
+      100 : '#fdfbf7' ,
+      200 : '#f4f0e6' ,
+      300 : '#e9e3d3' ,
+      400 : '#ded5bf' ,
+      500 : '#bfb79e' ,
+      600 : '#9f926d' 
+    } ,
+    'on-background' : '#191F0F' ,
       /* */
       /* :: Color Palette: Yellow and Dark Grey
       'primary': {
