@@ -28,8 +28,8 @@
       "title": "Operations Lead",
       "company": "Amuse Delivery",
       "href": "",
-      "startDate": "01/2024",
-      "endDate": "12/2024",
+      "startDate": "01.2024",
+      "endDate": "12.2024",
       "description": "I managed nightly dispatch logistics for a 15-driver fleet, ensuring full compliance with strict state-mandated delivery regulations. Alongside routing operations, I reconciled daily cash logs and resolved high-volume customer and field service escalations under tight operational windows.",
       "logo": "/logos/vercel-white.png",
       "skills": ["Compliance", "Dispatch", "Auditing", "CS"]
@@ -38,8 +38,8 @@
       "title": "Unit Lead & Caregiver",
       "company": "Revere Court",
       "href": "",
-      "startDate": "01/2022",
-      "endDate": "12/2022",
+      "startDate": "01.2022",
+      "endDate": "12.2022",
       "description": "I directed specialized memory and Alzheimer's care for a 28-resident unit, earning a promotion to Unit Lead within weeks of hiring. Alongside managing daily resident health and safety metrics, I built and led training programs for incoming care staff to ensure compliance and high-quality care standards across the unit.",
       "logo": "/logos/vercel-white.png",
       "skills": ["Healthcare", "Leadership"]
